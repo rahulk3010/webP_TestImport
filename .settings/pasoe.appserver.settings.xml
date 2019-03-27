@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<module-content version="12.0ALPHA">
-<module id="71e1a9ff-611e-4fd0-a2f7-273651cb4ad0" name="webP_TestImport">
-<resource path="AppServer" publish="true"/>
+<module-content version="12.0">
+<module id="59352c20-7d4c-410c-a470-c1fb7a07e24c" name="webP_TestImport">
+<resource path="src\AppServer" publish="true"/>
 </module>
 </module-content>

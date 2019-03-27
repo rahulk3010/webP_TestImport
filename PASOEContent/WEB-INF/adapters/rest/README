@@ -1,12 +1,4 @@
-##########################################################################
-##                                                                      ##
-##        Copyright (c) 1998-2015 by Progress Software Corporation      ##
-##                                                                      ##
-## All rights reserved.  No part of this program or document may be     ##
-## reproduced in any form or by any means without permission in writing ##
-## from Progress Software Corporation.                                  ##
-##                                                                      ##
-##########################################################################
+# Copyright © 1998-2019 Progress Software Corporation and/or one of its subsidiaries or affiliates. All rights reserved.
  
 This README describes contents of the parent folder "rest". The contents
 of parent "rest" folder is used by the runtime to initialize REST transport
